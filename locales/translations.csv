@@ -1,0 +1,124 @@
+﻿text_id,es,zh,en,ja
+text.cozy_symbol_rain_editor,Cozy Symbol Rain — Editor,Cozy Symbol Rain — 编辑器,Cozy Symbol Rain — Editor,Cozy Symbol Rain — エディター
+text.cozy_rain_editor,Cozy Rain — Editor,Cozy Rain — 编辑器,Cozy Rain — Editor,Cozy Rain — エディター
+text.visual_editor,Editor visual,可视编辑器,Visual editor,ビジュアルエディター
+text.pin_panel,Bloquear panel,固定面板,Pin panel,パネルを固定
+text.close,Cerrar,关闭,Close,閉じる
+text.open_editor,Abrir editor,打开编辑器,Open editor,エディターを開く
+text.open_the_editor_from_the_left_edge,Abre el editor desde el borde izquierdo.,从左侧边缘打开编辑器。,Open the editor from the left edge.,左端からエディターを開けます。
+text.interface_language,Idioma de la interfaz,界面语言,Interface language,表示言語
+text.system,Sistema,跟随系统,System,システム
+text.01_default,01 — Actual,01 — 默认,01 — Default,01 — 既定
+text.02_screenshots,02 — Capturas,02 — 截图,02 — Screenshots,02 — スクリーンショット
+text.depth,Profundidad,深度,Depth,奥行き
+text.scale_by_depth,Escalado por profundidad,按深度缩放,Scale by depth,奥行きによる拡大縮小
+text.midpoint,Ecuador,中间位置,Midpoint,中間点
+text.top_x_scale,Escala X arriba,顶部 X 缩放,Top X scale,上部の X 倍率
+text.middle_x_scale,Escala X centro,中部 X 缩放,Middle X scale,中央の X 倍率
+text.bottom_x_scale,Escala X abajo,底部 X 缩放,Bottom X scale,下部の X 倍率
+text.top_y_scale,Escala Y arriba,顶部 Y 缩放,Top Y scale,上部の Y 倍率
+text.middle_y_scale,Escala Y centro,中部 Y 缩放,Middle Y scale,中央の Y 倍率
+text.bottom_y_scale,Escala Y abajo,底部 Y 缩放,Bottom Y scale,下部の Y 倍率
+text.depth_tint,Tinte por profundidad,深度色调,Depth tint,奥行きによる色合い
+text.top_tint,Tinte arriba,顶部色调,Top tint,上部の色合い
+text.top_strength,Intensidad arriba,顶部强度,Top strength,上部の強さ
+text.bottom_tint,Tinte abajo,底部色调,Bottom tint,下部の色合い
+text.bottom_strength,Intensidad abajo,底部强度,Bottom strength,下部の強さ
+text.background_water,Fondo / agua,背景／水面,Background / water,背景／水面
+text.top_color,Color superior,顶部颜色,Top color,上部の色
+text.middle_color,Color medio,中部颜色,Middle color,中央の色
+text.bottom_color,Color inferior,底部颜色,Bottom color,下部の色
+text.middle_color_position,Posición color medio,中间颜色位置,Middle color position,中央の色の位置
+text.gradient_angle,Ángulo degradé,渐变角度,Gradient angle,グラデーションの角度
+text.bottom_glow,Glow inferior,底部辉光,Bottom glow,下部の光
+text.rain,Lluvia,降雨,Rain,雨
+text.spawn_rate,Cadencia,生成频率,Spawn rate,発生頻度
+text.maximum_drops,Máx. gotas,最大雨滴数,Maximum drops,雨粒の最大数
+text.minimum_speed,Velocidad mín.,最低速度,Minimum speed,最小速度
+text.maximum_speed,Velocidad máx.,最高速度,Maximum speed,最大速度
+text.minimum_length,Largo mín.,最小长度,Minimum length,最小の長さ
+text.maximum_length,Largo máx.,最大长度,Maximum length,最大の長さ
+text.minimum_width,Grosor mín.,最小宽度,Minimum width,最小の太さ
+text.maximum_width,Grosor máx.,最大宽度,Maximum width,最大の太さ
+text.rain_angle,Ángulo lluvia,降雨角度,Rain angle,雨の角度
+text.angle_variation,Jitter ángulo,角度变化,Angle variation,角度のばらつき
+text.impact_range_start,Impacto desde,落点范围起始,Impact range start,着地点の範囲の始点
+text.impact_range_end,Impacto hasta,落点范围终止,Impact range end,着地点の範囲の終点
+text.ripples,Ondas,波纹,Ripples,波紋
+text.minimum_lifetime,Vida mín.,最短寿命,Minimum lifetime,最小寿命
+text.maximum_lifetime,Vida máx.,最长寿命,Maximum lifetime,最大寿命
+text.minimum_radius,Radio mín.,最小半径,Minimum radius,最小半径
+text.maximum_radius,Radio máx.,最大半径,Maximum radius,最大半径
+text.delay,Separación,延迟,Delay,遅延
+text.splash,Splash,飞溅,Splash,しぶき
+text.minimum_count,Cantidad mín.,最小数量,Minimum count,最小数
+text.maximum_count,Cantidad máx.,最大数量,Maximum count,最大数
+text.minimum_size,Tamaño mín.,最小尺寸,Minimum size,最小サイズ
+text.maximum_size,Tamaño máx.,最大尺寸,Maximum size,最大サイズ
+text.minimum_power,Potencia mín.,最小力度,Minimum power,最小の勢い
+text.maximum_power,Potencia máx.,最大力度,Maximum power,最大の勢い
+text.size_variation,RNG tamaño,尺寸变化,Size variation,サイズのばらつき
+text.power_variation,RNG potencia,力度变化,Power variation,勢いのばらつき
+text.symbols,Símbolos,符号,Symbols,記号
+text.probability,Probabilidad,概率,Probability,確率
+text.minimum_rise,Salto mín.,最小上升高度,Minimum rise,最小の上昇量
+text.maximum_rise,Salto máx.,最大上升高度,Maximum rise,最大の上昇量
+text.lifetime_variation,RNG duración,寿命变化,Lifetime variation,寿命のばらつき
+text.rise_variation,RNG salto,上升变化,Rise variation,上昇量のばらつき
+text.depth_of_field,Profundidad de campo,景深,Depth of field,被写界深度
+text.enable_depth_of_field,Activar DOF,启用景深,Enable depth of field,被写界深度を有効にする
+text.focus_plane,Plano focal,焦平面,Focus plane,ピント面
+text.focus_width,Ancho de foco,焦点宽度,Focus width,ピントの幅
+text.background_blur,Blur fondo,背景模糊,Background blur,奥のぼかし
+text.foreground_blur,Blur frente,前景模糊,Foreground blur,手前のぼかし
+text.background_falloff,Curva fondo,背景衰减曲线,Background falloff,奥のぼけ方
+text.foreground_falloff,Curva frente,前景衰减曲线,Foreground falloff,手前のぼけ方
+text.layers,Capas,层数,Layers,レイヤー数
+text.opacity_loss,Pérdida opacidad,不透明度衰减,Opacity loss,不透明度の減少
+text.show_focus_plane,Mostrar plano focal,显示焦平面,Show focus plane,ピント面を表示
+text.presets,Presets,预设,Presets,プリセット
+text.active_preset,Preset activo,当前预设,Active preset,現在のプリセット
+text.name,Nombre,名称,Name,名前
+text.load,Cargar,加载,Load,読み込む
+text.save_new,Guardar nuevo,另存为新预设,Save new,新規保存
+text.overwrite,Sobrescribir,覆盖,Overwrite,上書き
+text.delete,Eliminar,删除,Delete,削除
+text.export,Exportar,导出,Export,書き出す
+text.import,Importar,导入,Import,読み込む
+text.presets_01_and_02_are_included_new_presets_are_saved_locally_in_your_bro,Los presets 01 y 02 están incluidos. Los nuevos se guardan localmente en tu navegador.,内置预设 01 和 02。新预设保存在浏览器本地。,Presets 01 and 02 are included. New presets are saved locally in your browser.,プリセット 01 と 02 を用意しています。新しいプリセットはブラウザー内に保存されます。
+text.color_and_palettes,Color y paletas,颜色与调色板,Color and palettes,色とパレット
+text.white,Blanco,白色,White,白
+text.full_color,Color completo,完整颜色,Full color,フルカラー
+text.less_opaque_color,Color menos opaco,较低不透明度颜色,Less opaque color,薄い色
+text.color_50_white,Color + 50% blanco,颜色＋50% 白色,Color + 50% white,色＋50% の白
+text.palette,Paleta,调色板,Palette,パレット
+text.match_impact_colors,Coordinar familia de impacto,协调冲击颜色,Match impact colors,着地点の色をそろえる
+text.drop_ripple_splash_mode,Modo gotas / ondas / splash,雨滴／波纹／飞溅模式,Drop / ripple / splash mode,雨粒／波紋／しぶきのモード
+text.symbol_mode,Modo símbolos,符号模式,Symbol mode,記号のモード
+text.liquid_palette_preset,Preset líquidos,液体调色板预设,Liquid palette preset,液体のパレットプリセット
+text.apply_to_liquids,Aplicar preset a líquidos,应用于液体,Apply to liquids,液体に適用
+text.symbol_palette_preset,Preset símbolos,符号调色板预设,Symbol palette preset,記号のパレットプリセット
+text.apply_to_symbols,Aplicar preset a símbolos,应用于符号,Apply to symbols,記号に適用
+text.copy_liquids_symbols,Copiar líquidos → símbolos,复制液体 → 符号,Copy liquids → symbols,液体 → 記号にコピー
+text.copy_symbols_liquids,Copiar símbolos → líquidos,复制符号 → 液体,Copy symbols → liquids,記号 → 液体にコピー
+text.try_a_black_background_white_liquids_and_rgb_cmy_symbols_or_coordinate_e,"Con esto puedes probar, por ejemplo: fondo negro + líquidos blancos + símbolos RGB CMY; o todo coordinado en color.",例如，可尝试黑色背景、白色液体与 RGB CMY 符号，或协调所有元素的颜色。,"Try a black background, white liquids, and RGB CMY symbols, or coordinate everything in color.",黒い背景に白い液体と RGB CMY の記号を組み合わせたり、全体の色をそろえたりできます。
+text.reset,Restablecer,重置,Reset,リセット
+text.clear_particles,Limpiar partículas,清除粒子,Clear particles,粒子を消去
+text.copy,Copia,副本,Copy,コピー
+text.copied,Copiado,已复制,Copied,コピーしました
+text.downloaded,Descargado,已下载,Downloaded,ダウンロードしました
+text.could_not_copy_to_the_clipboard,No se pudo copiar al portapapeles.,无法复制到剪贴板。,Could not copy to the clipboard.,クリップボードにコピーできませんでした。
+text.paste_the_preset_json_here,Pega aquí el JSON del preset:,在此粘贴预设 JSON：,Paste the preset JSON here:,プリセットの JSON を貼り付けてください：
+text.invalid_json_or_incompatible_preset,JSON inválido.,JSON 无效或预设不兼容。,Invalid JSON or incompatible preset.,JSON が無効、または互換性のないプリセットです。
+text.could_not_save_in_this_browser_export_the_preset_to_keep_it,No se pudo guardar en este navegador. Exporta el preset para conservarlo.,无法在此浏览器中保存。请导出预设以保留设置。,Could not save in this browser. Export the preset to keep it.,このブラウザーに保存できませんでした。設定を残すにはプリセットを書き出してください。
+text.monochrome,Monocromo,单色,Monochrome,モノクロ
+text.rgb_cmy,RGB CMY,RGB CMY,RGB CMY,RGB CMY
+text.pastel,Pastel,粉彩,Pastel,パステル
+text.aurora,Aurora,极光,Aurora,オーロラ
+text.ember,Brasa,余烬,Ember,残り火
+text.espanol,Español,Español,Español,Español
+text.english,English,English,English,English
+text.symbol,中文,中文,中文,中文
+text.symbol_2,日本語,日本語,日本語,日本語
+preset.default_name,Preset {n},预设 {n},Preset {n},プリセット {n}
+text.preset,Preset,预设,Preset,プリセット

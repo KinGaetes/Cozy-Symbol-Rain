@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title data-i18n="text.cozy_symbol_rain_editor"></title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<canvas id="rain"></canvas>
+<button id="edgeSensor" type="button" aria-label="" data-i18n-aria-label="text.open_editor" title="" data-i18n-title="text.open_editor"></button>
+<aside id="panel" aria-label="" data-i18n-aria-label="text.visual_editor">
+  <div class="panelHead">
+    <strong><span data-i18n="text.cozy_rain_editor"></span></strong>
+    <select id="languageSelect" aria-label="" data-i18n-aria-label="text.interface_language">
+      <option value="auto" data-i18n="text.system"></option><option value="es" data-i18n="text.espanol"></option>
+      <option value="en" data-i18n="text.english"></option><option value="zh" data-i18n="text.symbol"></option><option value="ja" data-i18n="text.symbol_2"></option>
+    </select>
+    <button class="iconBtn" id="pinBtn" title="" data-i18n-title="text.pin_panel">⌖</button>
+    <button class="iconBtn" id="closeBtn" title="" data-i18n-title="text.close">×</button>
+  </div>
+  <div class="scroll" id="controls"></div>
+</aside>
+<div id="hint" role="status" aria-live="polite"><span data-i18n="text.open_the_editor_from_the_left_edge"></span></div>
+
+<script src="js/i18n.js"></script>
+<script src="js/config.js"></script>
+<script src="js/colors.js"></script>
+<script src="js/simulation.js"></script>
+<script src="js/renderer.js"></script>
+<script src="js/controls.js"></script>
+<script src="js/presets.js"></script>
+<script src="js/panel.js"></script>
+<script src="js/interface.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
